@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5 FORMS</title>
+</head>
+
+<body>
+    <!-- Forms -->
+    <form action="process.php" method="POST">
+        <div>
+            <label for="first-name">First Name</label>
+            <input type="text" name="first-name" placeholder="Enter first name">
+        </div>
+        <br>
+        <div>
+            <label for="last-name">Last Name</label>
+            <input type="text" name="last-name">
+        </div>
+        <br>
+        <div>
+            <label for="email">Email</label>
+            <input type="email" name="email">
+        </div>
+        <br>
+        <div>
+            <label for="message">Message</label>
+            <textarea name="message"></textarea>
+        </div>
+        <br>
+        <div>
+            <label for="gender">Gender</label>
+            <select name="gender">
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="age">Age:</label>
+            <input type="number" name="age" value="30">
+        </div>
+        <br>
+        <div>
+            <label for="birthday">Birthday:</label>
+            <input type="date" name="birthday">
+        </div>
+        <br>
+        <input type="submit" name="submit" value="Submit">
+    </form>
+
+    <!-- Button -->
+    <button>Click Me</button>
+
+</body>
+
+</html>
