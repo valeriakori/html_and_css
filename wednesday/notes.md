@@ -44,6 +44,7 @@
 - [Styling a Button Step by Step](https://usabilitypost.com/2012/01/10/pressed-button-state-with-css3/#)
 - [Canva: Generate pretty color palettes from image](https://www.canva.com/colors/color-palette-generator/)
 - [CSS Gradient and Color Palette Generator](https://mycolor.space)
+- [Color Theory - CMYK vs RGB](https://www.youtube.com/watch?v=UXuY3KtWtyw)
 
 
 ### Emojis
