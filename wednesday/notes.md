@@ -47,6 +47,7 @@
 - [Color Theory - CMYK vs RGB](https://www.youtube.com/watch?v=UXuY3KtWtyw)
 - [Favicon Generator](https://www.favicon-generator.org/)
 - [Google Fonts](https://fonts.google.com/)
+- [Background Patterns](https://www.heropatterns.com/)
 
 
 ### Emojis
