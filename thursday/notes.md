@@ -1,7 +1,13 @@
-## Stylerules used:
+## Prerequesites
+  *Install Firefox Developer Edition
+    *Windows: https://www.mozilla.org/de/firefox/developer/
+  * MacOs: brew cask install caskroom/versions/firefox-developer-edition
 
+## Stylerules used:
 ### Display
-- flex: [Ultimate Reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- flex: 
+  - [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv)
+  - [Ultimate Reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - grid: [Great Video Tutorials](https://cssgrid.io/)
 
 
