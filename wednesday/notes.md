@@ -11,7 +11,7 @@
 
 ### Button Styling
 - outline
-- box-shadow (inset)
+- box-shadow
 - cursor
 
 ### Background
@@ -24,6 +24,7 @@
 - margin/padding/border
 - widht/height
 - display
+- border-radius (rounded corner)
 
 ### Lists
 - list-style-type (some are not supported in every browser)
