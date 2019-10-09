@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Menu</title>
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Titillium+Web:900&display=swap" rel="stylesheet">
+  </head>
+  <style>
+      /* Defining recurring colors */
+    :root {
+        --yellow: rgb(235, 217, 190);
+        --black: rgb(52, 50, 49);
+    }
+      /*Some setup*/
+      body {
+          /* Reset */
+          margin: 0;
+          padding: 0;
+          background-color: var(--yellow);
+          color: var(--black);
+      }
+      ul {
+          list-style-type: none;
+      }
+      .container {
+        max-width: 600px;
+        margin: 15px auto;
+        /* Here comes the magic */
+
+      }
+      .container div {
+          border: 1px solid var(--black);
+      }
+  </style>
+  <body>
+
+    <div class="container">
+
+      <div class="breakfast_heading">Breakfast</div>
+
+      <div class="time">Served until 11:30am</div>
+
+      <div class="breakfast_menu">
+          <p>The Full Breakfast</p>
+      </div>
+
+      <div class="juice_heading">
+        Energiser<br />
+        Juices
+      </div>
+
+      <div class="juice_menu">
+        <ul>
+          <li>Watermelon</li>
+        </ul>
+      </div>
+
+      <div class="hotdrinks_heading">Hot Drinks</div>
+      <div class="hotdrinks_menu">
+        <ul>
+          <li>Tea <span>2.35</span></li>
+        </ul>
+      </div>
+      <div class="whitespace"></div>
+    </div>
+  </body>
+</html>
