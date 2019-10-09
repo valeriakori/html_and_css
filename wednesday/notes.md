@@ -48,6 +48,7 @@
 - [Favicon Generator](https://www.favicon-generator.org/)
 - [Google Fonts](https://fonts.google.com/)
 - [Background Patterns](https://www.heropatterns.com/)
+- [CSS Grid Studies HIGHLY RECOMMEND!!!](https://labs.jensimmons.com/)
 
 
 ### Emojis
