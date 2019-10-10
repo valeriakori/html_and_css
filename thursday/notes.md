@@ -15,6 +15,7 @@
 - [CSS Flexbox Tower Defense Game](http://www.flexboxdefense.com/)
 - [CSS Grid Garden Game](http://cssgridgarden.com/)
 - [Different HTML & CSS Quizes](https://learn-the-web.algonquindesign.ca/activities/)
+- [CSS Selectors Game](https://flukeout.github.io/)
 
 ## Complimentary Ressources:
 - [CSS Grid Studies HIGHLY RECOMMEND!!!](https://labs.jensimmons.com/)
